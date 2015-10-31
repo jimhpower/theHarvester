@@ -38,6 +38,8 @@ Passive:
 
 -pgp: pgp key server - pgp.rediris.es
 
+-gpg: gpg key server - gpg.mit.edu 
+
 -linkedin: google search engine, specific search for Linkedin users
 
 
